@@ -5,5 +5,6 @@
  * @author Estudio
  *
  */
-module TinKan {
+module mymodule {
+	requires java.desktop;
 }
